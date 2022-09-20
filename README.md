@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abrahamukachi
 - 👀 I’m interested in lit, flutter, ML & AI.
 - 💻 I'm still working on WAWET (a social media platform for food-lovers) 😜.
-- 🌱 I’m currently learning `bash` ...
+- 🌱 I’m currently brushing up on my `bash` ...
 - 💞️ I’m looking to collaborate on some interesting github related projects with the amazing people at [LaPlateforme_](https://laplateforme.io).
 - 📫 You can send me an [email](abrahamukachi@gmail.com) anytime or send me a [Direct Message](https://twitter.com/abrahamukachi) on Twitter.
 
